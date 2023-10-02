@@ -23,7 +23,7 @@ Make sure you have Node.js installed in your system.
 ## Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/YourUsername/TOODOO.git
+   git clone https://github.com/regueiraca/TOODOO.git
 2. Navigate to the project directory
 3. Install required packages
       ```sh
